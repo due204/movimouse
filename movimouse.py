@@ -18,7 +18,7 @@ Si no es así, consulta <http://www.gnu.org/licenses/>.
 
 import tkinter as tk
 from tkinter import ttk
-from pynput import Controller
+from pynput.mouse import Controller
 from pynput.mouse import Listener
 from threading import Thread
 from time import sleep
