@@ -1,3 +1,6 @@
+![Movimouse](https://raw.githubusercontent.com/due204/movimouse/refs/heads/main/img.png)
+
+
 # movimouse
 
 Movimouse - Mueve el mouse para evitar el apagado de los monitores, proyectores y demás.
